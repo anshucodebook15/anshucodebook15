@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Saxena</h1>
-<h4 align="center">I am a Full Stack Web Developer and have an experience of 4+ years in the web development stream. Javascript and its industry frameworks are my core language and web stacks. I majorly work for developing MERN stack web applications, having prior knowledge of Vanilla Javascript, E6, React, React Native, Redux, Node Js, Express JS, MongoDB, Mysql, UX/UI design, Bootstrap, Linux and Deployment, REST API, WordPress and more.</h4>
+<h4 align="center">MERN Stack Web Developer with an experience of 4+ years in the web development stream. Javascript and its industry frameworks are my core language and web stacks. I majorly work for developing MERN stack web applications, having prior knowledge of Vanilla Javascript, E6, React, React Native, Redux, Node Js, Express JS, MongoDB, Mysql, UX/UI design, Bootstrap, Linux and Deployment, REST API, WordPress and more.</h4>
 
 - 🔭 I’m currently working on **MERN Ecommerce Web Appliaction**
 
